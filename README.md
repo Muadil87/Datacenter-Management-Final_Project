@@ -349,11 +349,3 @@ Contributions are welcome! Please follow these steps:
 ## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## 📞 Support
-
-For issues and questions, please open an issue on the GitHub repository.
-
-https://github.com/MonssifElkadi/Projet_devWEB
-
-**Last Updated**: January 2026
